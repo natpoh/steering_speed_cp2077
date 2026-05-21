@@ -36,3 +36,6 @@ Delete the following folder:
 
 ## Credits
 Built with TweakXL and Redscript.
+
+## Source Code
+[Source code is available on GitHub](https://github.com/natpoh/steering_speed_cp2077). Pull requests and feedback are welcome!
