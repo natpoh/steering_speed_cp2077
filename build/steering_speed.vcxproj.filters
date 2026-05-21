@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\wsl\cp2077\cp2077-steering-speed-mod\steering_speed\src\config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wsl\cp2077\cp2077-steering-speed-mod\steering_speed\src\plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wsl\cp2077\cp2077-steering-speed-mod\steering_speed\src\rtti.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\wsl\cp2077\cp2077-steering-speed-mod\steering_speed\src\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wsl\cp2077\cp2077-steering-speed-mod\steering_speed\src\rtti.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\wsl\cp2077\cp2077-steering-speed-mod\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{78B133C7-96F5-3E56-9400-3F032E3FAE7B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D989F2C8-0D1D-30C7-98D1-FF5281A12AB3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

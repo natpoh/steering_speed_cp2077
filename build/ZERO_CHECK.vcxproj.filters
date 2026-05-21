@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\wsl\cp2077\cp2077-steering-speed-mod\build\CMakeFiles\46315e26a6d80eb53fa1dfbb25ac4a88\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F96486C3-2C66-354A-B2EA-1816D84C0A70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

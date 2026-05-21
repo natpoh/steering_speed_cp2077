@@ -1,0 +1,5 @@
+C:/wsl/cp2077/cp2077-steering-speed-mod/build/CMakeFiles/steering_speed.dir
+C:/wsl/cp2077/cp2077-steering-speed-mod/build/CMakeFiles/ALL_BUILD.dir
+C:/wsl/cp2077/cp2077-steering-speed-mod/build/CMakeFiles/ZERO_CHECK.dir
+C:/wsl/cp2077/cp2077-steering-speed-mod/build/vendor/RED4ext.SDK/CMakeFiles/RED4ext.SDK.dir
+C:/wsl/cp2077/cp2077-steering-speed-mod/build/vendor/RED4ext.SDK/CMakeFiles/ALL_BUILD.dir

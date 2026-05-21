@@ -18,6 +18,13 @@ You [b]MUST[/b] install the following mods for this to work:
 [*] [url=https://www.nexusmods.com/cyberpunk2077/mods/1511]redscript[/url]
 [/list]
 
+[size=5][b]Recommended Mods[/b][/size]
+For the ultimate driving experience, we highly recommend using this mod alongside:
+[list]
+[*] [url=https://www.nexusmods.com/cyberpunk2077/mods/XXXX]Logitech & Moza Steering Wheel Support[/url] — Play the game with a real racing wheel with Force Feedback!
+[*] [url=https://www.nexusmods.com/cyberpunk2077/mods/YYYY]Motion Platform Telemetry / Platform Mod[/url] — Enhance your immersion with motion rig support.
+[/list]
+
 [size=5][b]Installation[/b][/size]
 [list=1]
 [*] Install all the requirements listed above.

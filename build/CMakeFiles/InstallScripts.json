@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/wsl/cp2077/cp2077-steering-speed-mod/build/cmake_install.cmake",
+		"C:/wsl/cp2077/cp2077-steering-speed-mod/build/vendor/RED4ext.SDK/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

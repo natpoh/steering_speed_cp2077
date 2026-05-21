@@ -1,0 +1,10 @@
+^C:\WSL\CP2077\CP2077-STEERING-SPEED-MOD\BUILD\CMAKEFILES\46315E26A6D80EB53FA1DFBB25AC4A88\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/wsl/cp2077/cp2077-steering-speed-mod -BC:/wsl/cp2077/cp2077-steering-speed-mod/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/wsl/cp2077/cp2077-steering-speed-mod/build/steering_speed.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
